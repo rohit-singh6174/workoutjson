@@ -1,0 +1,46 @@
+{
+  "workout": [
+    {
+    "id": 0,
+    "name": "Incline Bench press",
+    "category": "Chest",
+    "gif": "https://www.inspireusafoundation.org/wp-content/uploads/2022/09/dumbbell-incline-chest-press.gif",
+    "imageUrl": "https://www.shutterstock.com/image-illustration/press-bar-lying-on-incline-600w-425668825.jpg",
+    "youtubeUrl":"https://www.youtube.com/watch?v=IP4oeKh1Sd4"
+  },
+  {
+    "id": 1,
+    "name": "Stright Bench press",
+    "category": "Chest",
+    "gif": "https://www.inspireusafoundation.org/wp-content/uploads/2022/04/barbell-bench-press.gif",
+    "imageUrl": "https://www.shutterstock.com/image-illustration/dumbbell-bench-press-lying-second-600w-428906839.jpg",
+    "youtubeUrl":"https://www.youtube.com/watch?v=jRUC6IVav30"
+  },
+  {
+    "id": 2,
+    "name": "Decline Bench press",
+    "category": "Chest",
+    "gif": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Decline-Dumbbell-Press.gif",
+    "imageUrl": "https://www.inspireusafoundation.org/wp-content/uploads/2021/10/decline-bench-press-1024x566.png",
+    "youtubeUrl":"https://www.youtube.com/watch?v=0xRvl4Qv3ZY"
+  },
+  {
+    "id": 3,
+    "name": "Lying Triceps Extension",
+    "category": "Triceps",
+    "gif": "https://www.nickhallbodytransformations.com/wp-content/uploads/2019/01/17481301-EZ-Bar-Lying-Close-Grip-Triceps-Extension-Behind-Head_Upper-Arms_360.gif",
+    "imageUrl": "https://www.shutterstock.com/image-illustration/french-press-barbell-lying-3d-600w-419748157.jpg",
+    "youtubeUrl":"https://www.youtube.com/watch?v=MO_03opCc0g&t=2s"
+  }
+,
+{
+  "id": 4,
+  "name": "Rope Pulldowns (Rope Extenstion)",
+  "category": "Triceps",
+  "gif": "https://www.aleanlife.com/wp-content/uploads/2020/08/tricep-rope-pulldown.gif",
+  "imageUrl": "https://www.shutterstock.com/image-illustration/french-press-barbell-lying-3d-600w-419748157.jpg",
+  "youtubeUrl":"https://www.youtube.com/watch?v=kiuVA0gs3EI"
+}
+]
+
+}
